@@ -63,4 +63,4 @@ private:
 
 }  // NameSpace KExiv2Iface
 
-#endif /* KEXIV2_H */
+#endif /* KEXIV2DATA_H */
